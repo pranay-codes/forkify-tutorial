@@ -1,0 +1,7 @@
+- Display number of pages between pagination buttons
+- Ability to sort search results by duration or number of ingredients
+- perform ingredient validation in view, before submitting the form
+- Improve search recipie ingredient input, separate in multiple fields and allow more than 6 ingredeints.
+- Shopping list feature - button on recipie to add ingredients to shopping list
+- Weekly meal planning feature - assign recipe to the next 7 days and show on weekly calendar
+- get nutrional data - use spoonacular api to calculate ingredients from each ingredient and get calories
